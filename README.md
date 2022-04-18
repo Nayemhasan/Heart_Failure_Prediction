@@ -9,15 +9,15 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model's.
  - [Proposal presentation](https://docs.google.com/presentation/d/1bidV-TzWJBCFlaJJP6e8bWn1TNmrG0Xx/edit?usp=sharing&ouid=107669986898554544562&rtpof=true&sd=true)
 
 ## Technologies used:
-	Programming language: Python
+    Programming language: Python
     Sci-kit learn
     TensorFlow
     Matplotlib
     NumPy
     Pandas
     Google Colaboratory
-##Feature’s:
 
+##Feature’s:
     Updateable database for better accuracy
     Faster processing as its cloud-based system
 
