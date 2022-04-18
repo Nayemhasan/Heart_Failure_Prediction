@@ -18,7 +18,7 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model's.
     Google Colaboratory
 
 ## Feature’s:
-    Updateable database for better accuracy
-    Faster processing as its cloud-based system
+    - Updateable database for better accuracy
+    - Faster processing as its cloud-based system
 
 
