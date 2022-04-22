@@ -1,6 +1,6 @@
 # Heart Failure Prediction Model
 
-Measuring/Comparing/Maximizing Accuracy for Prediction Model's.
+Measuring/Comparing/Maximizing Accuracy for Prediction Model.
 
 
 ## Acknowledgements
