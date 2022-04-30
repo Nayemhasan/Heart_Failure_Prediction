@@ -30,7 +30,7 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
  - unzip and open the directory with command prompt
  - type
 ```bash
-  python app.py
+python app.py
 ```
 ![](https://github.com/Nayemhasan/Heart_Failure_Prediction/blob/main/Final/pics/1.png)
  - to start the application 
