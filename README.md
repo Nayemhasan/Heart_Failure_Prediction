@@ -27,3 +27,11 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
     - unzip and open the directory with command prompt
 type <abbr title="Hyper Text Markup Language">python app.py</abbr> to start the application 
 
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
