@@ -22,4 +22,7 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
     - Works offline
     - Help's you quick check with accurate data model
 
+## How to use?
+    - download the lastest release.
+    - unzip and open the directory with command prompt
 
