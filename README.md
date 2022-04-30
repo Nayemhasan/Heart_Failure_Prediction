@@ -28,10 +28,10 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
 type <abbr title="Hyper Text Markup Language">python app.py</abbr> to start the application 
 
 ## Deployment
-
-To deploy this project run
-
+ - download the lastest release.
+ - unzip and open the directory with command prompt
+ - type
 ```bash
   npm run deploy
 ```
-
+ - to start the application 
