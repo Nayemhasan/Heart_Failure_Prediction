@@ -11,11 +11,12 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
 ## Technologies used:
     Programming language: Python
     Sci-kit learn
-    TensorFlow
     Matplotlib
     NumPy
     Pandas
-    Google Colaboratory
+    Google-Colaboratory
+    Flask
+    Vs-Code
 
 ## Feature’s:
     - Updateable database for better accuracy
