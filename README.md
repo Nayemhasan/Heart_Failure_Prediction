@@ -19,7 +19,7 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
     Vs-Code
 
 ## Feature’s:
-    - Updateable database for better accuracy
-    - Faster processing as its cloud-based system
+    - Works offline
+    - Help's you quick check with accurate data model
 
 
