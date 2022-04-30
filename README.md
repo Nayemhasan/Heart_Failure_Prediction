@@ -23,15 +23,11 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
     - Help's you quick check with accurate data model
 
 ## How to use?
-    - download the lastest release.
-    - unzip and open the directory with command prompt
-type <abbr title="Hyper Text Markup Language">python app.py</abbr> to start the application 
-
-## Deployment
  - download the lastest release.
  - unzip and open the directory with command prompt
  - type
 ```bash
-  npm run deploy
+  python app.py
 ```
  - to start the application 
+ - open up your browser and navigate here http://127.0.0.1:5000 
