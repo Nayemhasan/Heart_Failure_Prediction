@@ -25,5 +25,5 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
 ## How to use?
     - download the lastest release.
     - unzip and open the directory with command prompt
-    - type `python app.py` to start the application 
+    - type `'python app.py'` to start the application 
 
