@@ -19,8 +19,8 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
     Vs-Code
 
 ## Feature’s
-    - Works offline
-    - Help's you quick check with accurate data model
+   - Works offline
+   - Help's you quick check with accurate data model
 
 ## Dependencies
 [Python](https://www.python.org/)
