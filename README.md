@@ -41,5 +41,5 @@ python app.py
  - click 'PREDICT' for prediction
 ![](https://github.com/Nayemhasan/Heart_Failure_Prediction/blob/main/Final/pics/4.png)
 
-# Thank You 
+# Thank You🙏
 > **Note:** if you have any question or suggestion mail me @**nayemhassan421123@gmail.com** 
