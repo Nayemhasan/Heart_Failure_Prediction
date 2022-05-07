@@ -1,4 +1,4 @@
-# 💗Heart Failure Prediction Model
+# 💗Heart Failure Prediction
 
 Measuring/Comparing/Maximizing Accuracy for Prediction Model.
 
