@@ -27,17 +27,16 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
 
 ## How to use?
  - download the **lastest** release.
- - Install all the project dependencies
+ - **unzip** and open the **directory** with **command prompt**
+ - install all the project dependencies
 ```bash
 pip install -r requirements.txt
 ```
- - **unzip** and open the **directory** with **command prompt**
- - type👇
+ - to run the application
 ```bash
 python app.py
 ```
 ![](https://github.com/Nayemhasan/Heart_Failure_Prediction/blob/main/Final/pics/1.png)
- - to start the application 
  - open up your browser and navigate here http://127.0.0.1:5000 
 ![](https://github.com/Nayemhasan/Heart_Failure_Prediction/blob/main/Final/pics/2.png)
  - add values to your hearts desire
