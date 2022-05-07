@@ -23,10 +23,14 @@ Measuring/Comparing/Maximizing Accuracy for Prediction Model.
    - Help's you quick check with accurate data model
 
 ## Dependencies
-[Python](https://www.python.org/)
+[Python 3.7.0](https://www.python.org/downloads/release/python-370/)
 
 ## How to use?
  - download the **lastest** release.
+ - Install all the project dependencies
+```bash
+pip install -r requirements.txt
+```
  - **unzip** and open the **directory** with **command prompt**
  - type👇
 ```bash
