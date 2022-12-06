@@ -1,6 +1,6 @@
-# 💗Heart Failure Prediction
+# 💗Heart Failure Prediction WebApp
 
-Measuring/Comparing/Maximizing Accuracy for Prediction Model.
+Predicting heart failure event using ML.
 
 ## Technologies used
     Programming language: Python
