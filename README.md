@@ -33,7 +33,7 @@ python app.py
 ![](https://github.com/Nayemhasan/Heart_Failure_Prediction/blob/main/Final/pics/1.png)
  - open up your browser and navigate here http://127.0.0.1:5000 
 ![](https://github.com/Nayemhasan/Heart_Failure_Prediction/blob/main/Final/pics/2.png)
- - add values to your hearts desire
+ - add values 
 ![](https://github.com/Nayemhasan/Heart_Failure_Prediction/blob/main/Final/pics/3.png)
  - click 'PREDICT' for prediction
 ![](https://github.com/Nayemhasan/Heart_Failure_Prediction/blob/main/Final/pics/4.png)
